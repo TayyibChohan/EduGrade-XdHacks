@@ -6,3 +6,18 @@ google sheets here: https://docs.google.com/spreadsheets/d/1zLL77Bqf-0BWp1n7nDWn
 
 google slides here: https://docs.google.com/presentation/d/19dpHeTvhbqrI5lHV9OWmDE5l3m3Cyu8uivxrj2yD4IE/edit?usp=sharing
 
+This project recieved Third in Vancouver's First Highschool Hackathon - XdHacks mini
+
+# Instructions
+
+1) Download files
+
+2) Create client_secret.json
+  Use the following link to set-up google sheets and drive api and download the correct .json file and name it client_secret.json
+  
+3) Create a google sheets 
+  Make a sheets in the format of the link exactly and share it with the email in the .json file you created in the previous step
+  https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html 
+
+4) Run
+  Put all corresponding files in the same directory including client_secret.json. Add your questions and answers to the sheets in the  corresponding cells. Finally run the executable  
