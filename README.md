@@ -14,10 +14,11 @@ This project recieved Third in Vancouver's First Highschool Hackathon - XdHacks 
 
 2) Create client_secret.json
   Use the following link to set-up google sheets and drive api and download the correct .json file and name it client_secret.json
+    https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html 
   
 3) Create a google sheets 
   Make a sheets in the format of the link exactly and share it with the email in the .json file you created in the previous step
-  https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html 
+
 
 4) Run
   Put all corresponding files in the same directory including client_secret.json. Add your questions and answers to the sheets in the  corresponding cells. Finally run the executable  
